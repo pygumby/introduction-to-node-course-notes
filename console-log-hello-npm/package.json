@@ -1,0 +1,11 @@
+{
+  "name": "console-log-hello-npm",
+  "version": "0.1.1",
+  "description": "A dummy tool for logging \"Hello, npm!\" to the console -- created for educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Lucas Baerenfaenger (@lambdarookie, lambdarookie.com)",
+  "license": "MIT"
+}
